@@ -1,0 +1,65 @@
+{
+	"auto_complete": false,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Batman.tmTheme",
+	"drag_text": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Fira Code",
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": false,
+	"ignored_packages":
+	[
+		"Markdown",
+		"PHP",
+		"PHP Companion",
+		"PHP Completions Kit",
+		"PHPSnippets",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80,
+		120
+	],
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"theme": "Adaptive.sublime-theme",
+	"theme_combos":
+	{
+		"Ayu":
+		{
+			"color_scheme": "Packages/ayu/ayu-light.sublime-color-scheme",
+			"font_face": "Fira Code",
+			"theme": "ayu-light.sublime-theme"
+		},
+		"Batman":
+		{
+			"color_scheme": "Packages/User/BatmanAndRobin/Batman.tmTheme",
+			"font_face": "Fira Code",
+			"theme": "Adaptive.sublime-theme"
+		},
+		"Default":
+		{
+			"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+			"font_face": "Consolas",
+			"theme": "Adaptive.sublime-theme"
+		}
+	},
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

@@ -1,0 +1,47 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApacheConf",
+		"ayu",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"ColorHelper",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Hide Menu",
+		"INI",
+		"JsPrettier",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"LSP",
+		"LSP-intelephense",
+		"MarkdownEditing",
+		"Nord",
+		"Open-Include",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"PHP Completions Kit",
+		"PHPSnippets",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Terminal",
+		"Theme - Legacy",
+		"TypeScript",
+		"Vue Syntax Highlight"
+	],
+	"repositories":
+	[
+		"https://github.com/ifcanduela/SideBarEnhancements/tree/st3"
+	]
+}
